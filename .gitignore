@@ -1,0 +1,5 @@
+website/var/tmp/
+website/var/log/
+.DS_Store
+.idea/
+.db-data/
